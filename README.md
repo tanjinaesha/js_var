@@ -1,1 +1,1 @@
-# js_var_assign_arith
+# js_var
